@@ -8,3 +8,5 @@ mergedemoo commit 2
 three way merge commit 2
 three way merge in main
 rebase conflict demo 1
+squash 2
+square with pr 1
