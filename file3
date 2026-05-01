@@ -2,3 +2,4 @@ This is file 3 to test git fetch & pull
 part of git amendq
 checkout
 cherrypick commit1q
+to show merge commit
