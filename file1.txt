@@ -4,3 +4,4 @@ Ammend commit demo 1
 hello boss
 Tag demo 1
 mergedemoo commit 1
+mergedemoo commit 2
