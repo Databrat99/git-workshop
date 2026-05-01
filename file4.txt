@@ -3,3 +3,5 @@ rebase demo commit
 rebase commit 2
 PR commit 1
 squash file1
+squash with pr4
+squash file1
