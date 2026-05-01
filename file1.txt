@@ -2,3 +2,5 @@ getting started with git
 git fetch & pull
 Ammend commit demo 1
 hello boss
+
+Tag demo 1
