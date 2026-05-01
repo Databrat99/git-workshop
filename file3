@@ -3,3 +3,4 @@ part of git amendq
 checkout
 cherrypick commit1q
 to show merge commit
+rebase chnages from 3rd file
