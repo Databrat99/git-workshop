@@ -7,3 +7,5 @@ mergedemoo commit 1
 mergedemoo commit 2
 three way merge commit 2
 three way merge in main
+
+rebase dmo conflict 2
