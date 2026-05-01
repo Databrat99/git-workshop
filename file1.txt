@@ -10,4 +10,6 @@ three way merge in main
 rebase conflict demo 1
 squash 2
 square with pr 1
-squash 2
+IR commit 1
+ir commit 2
+ir commit 3
